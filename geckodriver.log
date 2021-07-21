@@ -1,0 +1,8 @@
+1626835416483	geckodriver	INFO	Listening on 127.0.0.1:38721
+1626835417476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHdIhRp"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1626835430786	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626835444353	Marionette	INFO	Listening on port 35527
+1626835444541	Marionette	WARN	TLS certificate errors will be ignored for this session
